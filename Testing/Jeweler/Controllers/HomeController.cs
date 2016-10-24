@@ -10,7 +10,7 @@ namespace Jeweler.Controllers
     {
         public ActionResult Index()
         {
-            ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.Testing";
+            ViewBag.Message = "Modify this template to jump-start your ASP.NET MVC application.Testing Now another change";
 
             return View();
         }
